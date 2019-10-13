@@ -13,7 +13,7 @@ for(;;){ //will keep on playing till the user enters a correct input or someone 
             window.alert("There was a tie lets play again.");
             continue;
         }
-        window.console.log(result);
+        window.alert(result);
         break;
     }
     else {
